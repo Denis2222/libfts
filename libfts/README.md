@@ -1,5 +1,5 @@
-# libft
+# libft with asm
 
-LIBrary Forthy Two
+LIBrary Forthy Two + ASM
 
-42 School C library
+Incomplete ....
